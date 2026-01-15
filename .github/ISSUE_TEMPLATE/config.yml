@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: GitHub Discussions
+    url: https://github.com/BoozeLee/mistral-vibe-cli-docs/discussions
+    about: Please ask and answer questions here.
+  - name: Mistral Vibe CLI Documentation
+    url: https://github.com/BoozeLee/mistral-vibe-cli-docs
+    about: Please check the documentation first.
+  - name: Contact Maintainer
+    url: mailto:boozelee@users.noreply.github.com
+    about: For private inquiries or security issues.
